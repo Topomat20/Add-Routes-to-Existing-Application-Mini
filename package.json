@@ -1,0 +1,23 @@
+{
+  "name": "add-routes-to-existing-application-mini",
+  "version": "1.0.0",
+  "description": "Adding routes to an existing application.\r ## Description\r I will add routes to an existing application, and create one wildcard route for serving up a 404 page, as well as a diagnostics route for logging failed form validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Topomat20/Add-Routes-to-Existing-Application-Mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Topomat20/Add-Routes-to-Existing-Application-Mini/issues"
+  },
+  "homepage": "https://github.com/Topomat20/Add-Routes-to-Existing-Application-Mini#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
